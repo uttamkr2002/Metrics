@@ -9,15 +9,7 @@ Calculate the Metrics and Store in DB
 
 # Create Table in PostGreSQl
 
-CREATE TABLE metrics_data (
-    id SERIAL PRIMARY KEY,
-    cpu_usage FLOAT NOT NULL,
-    disk_percent FLOAT NOT NULL,
-    used_disk BIGINT NOT NULL,
-    free_disk BIGINT NOT NULL,
-    total_disk BIGINT NOT NULL,
-    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
+![image](https://github.com/user-attachments/assets/9fbecd53-9004-47c0-b675-47f8bedfcd41)
 
 
 # Data Stored In PostGrESQL
