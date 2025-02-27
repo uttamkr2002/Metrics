@@ -4,7 +4,8 @@ Calculate the Metrics and Store in DB
 
 # client
 
-1> Fetch the Data from OS using gopsUtil Package
+1> Fetch the Data from OS using gopsUtil Package.   
+
 2> Store the data in DB
 
 # Create Table in PostGreSQl
